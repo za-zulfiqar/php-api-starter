@@ -41,7 +41,7 @@ if ($method === 'GET' && $uri === '/api/users') {
         ],
     ]);
 }
-
+//var_dump(response);
 response([
     'success' => false,
     'message' => 'Route not found',
