@@ -14,6 +14,8 @@ function response(array $data, int $status = 200): never
     exit;
 }
 
+//var_dump($method);
+
 if ($method === 'GET' && $uri === '/api/health') {
     response([
         'success' => true,
