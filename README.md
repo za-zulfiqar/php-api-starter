@@ -1,2 +1,2 @@
 # php-api-starter
-A clean and extensible PHP API starter project for building scalable RESTful web services with a structured backend architecture.
+A lightweight and extensible PHP API starter designed for building scalable RESTful web services with a clean, modular, and maintainable backend architecture.
